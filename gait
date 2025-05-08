@@ -1,1 +1,13 @@
-
+Human gait—the manner or style of walking—is a rich source of information about a
+person’s neuromuscular health. Quantitative gait analysis is used clinically to assess
+conditions such as Parkinson’s disease, post-stroke recovery, cerebral palsy, and age-
+related fall risks. A critical parameter in such assessments is the Center of Pressure
+(CoP), which captures the point of application of the resultant ground reaction force
+during stance phases.
+Traditional gait analysis systems such as GAITRite offer sub-centimeter CoP res-
+olution using pressure-sensitive walkways. However, they are expensive, non-portable,
+and require specialized installation. In contrast, consumer-grade RGB cameras and pose
+estimation tools like MediaPipe have democratized access to high-quality 3D human
+joint data. This convergence raises an important research question:
+Can we accurately predict biomechanical parameters like CoP using only af-
+fordable, non-intrusive visual sensors and machine learning?
