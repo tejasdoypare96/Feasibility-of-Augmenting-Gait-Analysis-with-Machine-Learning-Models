@@ -1,0 +1,7 @@
+ • Input: Vision-based 3D pose landmarks from MediaPipe extracted from static
+ walking images.
+ • Output: Sequence of CoP (X,Y) coordinates for each footstep.
+ • Hardware: Two RGB cameras, calibration poster, and GAITRite system for
+ ground truth.
+ • Focus: Model training, registration pipeline, interpolation, sequence modeling.
+ • Exclusion: No real-time deployment or IMU-based data used in this project.
