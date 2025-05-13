@@ -1,0 +1,9 @@
+ Challenges Encountered
+ • Synchronization issues: Camera and GAITRite data were not hardware-synced,
+ limiting temporal alignment.
+ • Sparse dataset: Only 7 usable footsteps with valid CoP, requiring synthetic data
+ augmentation.
+ • Pose noise: MediaPipe outputs may jitter under occlusion or poor lighting, espe
+cially for foot joints.
+ • Registration complexity: Required accurate spatial transformation between
+ image-space and physical CoP space.
