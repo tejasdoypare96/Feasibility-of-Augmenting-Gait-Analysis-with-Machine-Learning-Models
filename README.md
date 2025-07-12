@@ -7,7 +7,7 @@ This repository contains the complete code, documentation, and experimental resu
 ## 🎯 Project Objectives
 
 - Develop a **vision-based gait analysis system** using RGB cameras and pose estimation.
-- Perform **spatial registration** of camera-based pose landmarks with real-world CoP coordinates.
+- Perform **spatial registration** of camera-based pose landmarks with real-world CoP coordinates. 
 - Create a dataset using **interpolation and augmentation** of static frames.
 - Train and compare multiple models for CoP prediction:
   - Classical ML: Linear Regression, Random Forest, AdaBoost, MLP
