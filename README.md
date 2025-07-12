@@ -2,7 +2,7 @@
 
 This repository contains the complete code, documentation, and experimental results from the M.Tech thesis project by **Tejas Doypare** at the **Indian Institute of Science (IISc), Bangalore**. The goal is to demonstrate that low-cost, vision-only systems can be used with machine learning models to estimate **Center of Pressure (CoP)** for gait analysis as an affordable and portable alternative to clinical systems like GAITRite.
 
----
+--- 
 
 ## 🎯 Project Objectives
 
